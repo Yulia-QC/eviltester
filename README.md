@@ -28,7 +28,7 @@ src/
 
 1. Clone this repo:
    
-git clone https://github.com/your-username/eviltester.git
+git clone https://github.com/Yulia-QC/eviltester
 cd eviltester
 
 2. Run tests using Maven:
