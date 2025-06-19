@@ -41,3 +41,21 @@ Valid input (exactly 7 characters)
 Too short input
 Too long input
 Empty input
+
+## Note
+Please note that the test page is currently not functioning due to a missing validation script.
+I’ve documented the issue and added the test scenarios based on expected behavior using test design techniques such as boundary value analysis.
+
+## Test Page
+
+The tests cover input validation on the following web form:  
+👉 https://testpages.eviltester.com/styled/apps/7charval/simple7charvalidation.html
+
+<p align="center">
+  <img src="assets/form-screenshot.png" alt="Validation Form Screenshot" width="500">
+</p>
+
+Let me know if you'd prefer me to demonstrate it locally or use a different URL.
+
+Best regards,
+Yuliia
